@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="/.github/logo.svg" alt="Logo"/><br><br>
-    The finalcial manager for devs! 💵 <br>
+    The finanlcial manager for devs! 💵 <br>
 </p>
 
 ------------
