@@ -1,0 +1,53 @@
+{
+  "name": "dev.finances",
+  "productName": "dev.finances",
+  "version": "1.0.0",
+  "description": "Um aplicativo de controle de financias para devs.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "build": "electron-builder -c.extraMetadata.main='./src/index.js'"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Goytai",
+    "email": "dev.goytai@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "build": {
+    "productName": "dev.finances",
+    "appId": "com.electron-react-node",
+    "files": [
+      "node_modules/**/*",
+      "./src/**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    },
+    "win": {
+      "asar": false,
+      "target": "nsis",
+      "icon": "src/assets/icon.ico"
+    },
+    "nsis": {
+      "installerIcon": "src/assets/icon.ico",
+      "installerHeaderIcon": "src/assets/icon.ico",
+      "deleteAppDataOnUninstall": true
+    }
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54",
+    "@electron-forge/maker-deb": "^6.0.0-beta.54",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.54",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
+    "@electron-forge/maker-zip": "^6.0.0-beta.54",
+    "electron": "12.0.5",
+    "electron-builder": "^22.10.5"
+  }
+}
