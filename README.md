@@ -10,8 +10,12 @@
 ------------
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/goytai/dev.finances?style=for-the-badge" alt="License MIT" />
-    <a href="https://github.com/Goytai/dev.finances/releases"><img src="https://img.shields.io/github/downloads/goytai/dev.finances/total?style=for-the-badge" alt="Website Status" /></a>
+    <a href="https://github.com/Goytai/devFinances/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/goytai/dev.finances?style=for-the-badge" alt="License MIT" />
+    </a>
+    <a href="https://github.com/Goytai/dev.finances/releases">
+        <img src="https://img.shields.io/github/downloads/goytai/dev.finances/total?style=for-the-badge" alt="Website Status" />
+    </a>
 </p>
 
 ------------
@@ -70,12 +74,18 @@ My many thanks to 👨‍🏫 <a href="https://github.com/maykbrito">Mayk Brito<
 
 ------------
 <h2>📝 License</h2>
-This project is licensed under the MIT License. See the <a href="https://github.com/Goytai/dev.finances/blob/main/LICENSE">LICENSE</a> file for details.
+This project is licensed under the MIT License. See the <a href="https://github.com/Goytai/devFinances/blob/master/LICENSE">LICENSE</a> file for details.
 
 ------------
 <p align="center">
-    <a href="https://github.com/Goytai"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" width="100px" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/goytai/"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/linkedin.svg" width="100px" alt="Linkedin"/></a>
-    <a href="mailto:dev.goytai@gmail.com"><img src="https://raw.githubusercontent.com/Goytai/goytai/master/gmail.svg" width="100px" alt="Email"/></a>
+    <a href="https://github.com/Goytai">
+        <img src="https://raw.githubusercontent.com/Goytai/goytai/master/github.svg" width="100px" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/goytai/">
+        <img src="https://raw.githubusercontent.com/Goytai/goytai/master/linkedin.svg" width="100px" alt="Linkedin"/>
+    </a>
+    <a href="mailto:dev.goytai@gmail.com">
+        <img src="https://raw.githubusercontent.com/Goytai/goytai/master/gmail.svg" width="100px" alt="Email"/>
+    </a>
 </p>
 <p align="center">Made with 💜 by Goytai</p><br>
