@@ -11,10 +11,10 @@
 
 <p align="center">
     <a href="https://github.com/Goytai/devFinances/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/goytai/dev.finances?style=for-the-badge" alt="License MIT" />
+        <img src="https://img.shields.io/github/license/goytai/devFinances?style=for-the-badge" alt="License MIT" />
     </a>
-    <a href="https://github.com/Goytai/dev.finances/releases">
-        <img src="https://img.shields.io/github/downloads/goytai/dev.finances/total?style=for-the-badge" alt="Website Status" />
+    <a href="https://github.com/Goytai/devFinances/releases">
+        <img src="https://img.shields.io/github/downloads/goytai/devFinances/total?style=for-the-badge" alt="Website Status" />
     </a>
 </p>
 
@@ -38,7 +38,9 @@ The project was developed with:
 The releases is avaible in:
 
 <p align="center">
-    <a href="https://github.com/Goytai/dev.finances/releases"><img src="https://img.shields.io/github/downloads/goytai/dev.finances/total?style=for-the-badge" alt="Website Status" /></a>
+    <a href="https://github.com/Goytai/devFinances/releases">
+        <img src="https://img.shields.io/github/downloads/goytai/devFinances/total?style=for-the-badge" alt="Releases" />
+    </a>
 </p>
 
 ------------
@@ -46,13 +48,13 @@ The releases is avaible in:
 Clone the project:
 
 ```bash
-$ git clone https://github.com/Goytai/dev.finances.git
+$ git clone https://github.com/Goytai/devFinances.git
 ```
 
 Acess the folder:
 
 ```bash
-$ cd dev.finances
+$ cd devFinances
 ```
 
 Follow the steps below:
